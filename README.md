@@ -12,6 +12,8 @@ I am continuously striving to improve myself.
 - Strava: [safeoy](https://www.strava.com/athletes/safeoy)
 - Running Page: https://run.iduqian.com/
 
+### ⌨️ Github Stats
+
 ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=safeoy)
 
 ### 🏃 Running Stats
