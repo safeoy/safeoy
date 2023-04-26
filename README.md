@@ -1,10 +1,12 @@
 ### 👋 Hey! 
 
-I am Sunny, a software engineer who enjoys running and marathon. 
+I am Sunny, a software engineer specializing in Golang backend development. 
 
-I am currently focused on fitness and weight loss, and have already lost 20kg.
+I also have some experience in IOS development and currently learning Vue and JS frontend development. 
 
-I am continuously striving to improve myself.
+I enjoy running and participating in marathons. 
+
+I am currently focused on fitness and weight loss and have already lost 20kg. 
 
 ### 📫 How to reach me
 
