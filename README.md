@@ -1,3 +1,7 @@
+### ⌨️ Github Stats
+
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=safeoy)
+
 ### 👋 Hey! 
 
 I am safeoy, a software engineer specializing in Golang backend development. 
@@ -13,10 +17,6 @@ I am currently focused on fitness and weight loss and have already lost 20kg.
 - Email: safeoy@gmail.com
 - Strava: [safeoy](https://www.strava.com/athletes/safeoy)
 - Running Page: https://run.iduqian.com/
-
-### ⌨️ Github Stats
-
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=safeoy)
 
 ### 🏃 Running Stats
 
