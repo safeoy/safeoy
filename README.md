@@ -13,3 +13,7 @@ I am continuously striving to improve myself.
 - Running Page: https://run.iduqian.com/
 
 ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=safeoy)
+
+### 🏃 Running Stats
+
+![Sunny's Running stats](https://raw.githubusercontent.com/safeoy/running_page/master/assets/github.svg)
