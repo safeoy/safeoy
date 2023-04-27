@@ -4,7 +4,7 @@
 
 ### 👋 Hey! 
 
-I am safeoy, a software engineer specializing in Golang backend development. 
+I am Sunny, a software engineer specializing in Golang backend development. 
 
 I also have some experience in IOS development and currently learning Vue and JS frontend development. 
 
