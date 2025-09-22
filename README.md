@@ -1,23 +1,32 @@
-### ⌨️ Github Stats
+### 👋 Hi
 
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=safeoy)
+I'm **Sunny**, a backend engineer focused on building scalable, observable, high‑performance services in **Go** (microservices, gRPC, REST). I work on concurrency patterns, performance tuning, profiling, and reliability. I also have some **iOS (Swift / UIKit)** background and am currently learning **Vue + modern TypeScript** to round out full‑stack skills.
 
-### 👋 Hey! 
+---
+#### 🧩 Tech Stack
+- Go (concurrency, performance tuning, Gin/Fiber, gRPC)
+- Datastores: MySQL, PostgreSQL, Redis
+- Infrastructure: Docker, Kubernetes, CI/CD (GitHub Actions)
+- Observability: Prometheus, Grafana, pprof, tracing / OpenTelemetry
+- iOS: Swift (UIKit fundamentals)
+- Learning: Vue, JavaScript / TypeScript
 
-I am Sunny, a software engineer specializing in Golang backend development. 
+---
+#### 🚀 Current Focus
+- Deepening observability (tracing, metrics, profiling)
+- Frontend fundamentals (component design, state management, build tooling)
+- Long‑term fitness & weight management (already lost 20kg; refining training & nutrition)
 
-I also have some experience in IOS development and currently learning Vue and JS frontend development. 
+---
+#### 🏃 Interests
+- Distance running & marathons (structured training, pacing, HR zones)
+- Health, recovery, strength, nutrition
+- Designing simple, reliable, maintainable services
 
-I enjoy running and participating in marathons. 
-
-I am currently focused on fitness and weight loss and have already lost 20kg. 
-
-### 📫 How to reach me
-
-- Email: safeoy@gmail.com
+---
+#### 📫 Contact
+- Email: **safeoy@gmail.com**
 - Strava: [safeoy](https://www.strava.com/athletes/safeoy)
-- Running Page: https://run.iduqian.com/
 
-### 🏃 Running Stats
-
-![Sunny's Running stats](https://raw.githubusercontent.com/safeoy/running_page/master/assets/github.svg)
+---
+Happy to connect if you share interests in performance engineering, observability, or endurance training.
